@@ -1,1 +1,1 @@
-# equip-live
+# equip
